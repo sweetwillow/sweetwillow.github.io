@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  background-color: rgb(217, 232, 252);
+}
+
+h1 {
+  font-family: 'Great Vibes';
+  font-size: 3rem;
+  margin: auto;
+}
